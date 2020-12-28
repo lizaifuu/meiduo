@@ -1,0 +1,2 @@
+# 热销产品数量
+HOT_SKUS_COUNT_LIMIT = 2

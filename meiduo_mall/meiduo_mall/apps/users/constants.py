@@ -1,0 +1,23 @@
+# # 有效激活链接有效时间: s
+# VERIFY_EMAIL_TOKEN_EXPIRES = 7200
+#
+# # 用户添加收货地址最大数量
+# USER_ADDRESS_COUNTS_LIMIT = 20
+#
+# # 用户浏览记录的保存数量
+# USER_BROWSING_HISTORY_COUNTS_LIMIT = 5
+
+# 发送短信token的有效期
+SEND_SMS_CODE_TOKEN_EXPIRES = 300
+
+# 修改密码token的有效期
+SET_PASSWORD_TOKEN_EXPIRES = 300
+
+# 邮箱验证token有效期
+EMAIL_VERIFY_TOKEN_EXPIRES = 60*60*24
+
+# 用户最多保存地址数量限制
+USER_ADDRESS_COUNTS_LIMIT = 10
+
+# 用户浏览历史记录
+USER_BROWSING_HISTORY_COUNTS_LIMIT = 5
